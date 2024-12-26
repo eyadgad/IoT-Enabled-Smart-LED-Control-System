@@ -1,0 +1,6 @@
+Jetson.GPIO
+logging
+time
+socket
+adafruit-io
+requests
